@@ -23,8 +23,6 @@ const App = () => (
     <VideoBackground >
       <Hero />
     </ VideoBackground >
-    
-
 
     {/* <Separator />
     <section className="w-full h-screen bg-cover bg-center " style={{ backgroundImage: `url(${rdImage})` }}><Roadmap2 /></section>
@@ -32,8 +30,8 @@ const App = () => (
     <section className="w-full h-screen bg-cover bg-center " style={{ backgroundImage: `url(${bg3})` }}><About2 /></section>
     <Separator />
     <section className="padding"><Chart /></section>
-    <Separator />
-    <section className=""><StickyFooter /></section> */}
+    <Separator /> */}
+    <section className=""><StickyFooter /></section>
   </main>
 );
 
